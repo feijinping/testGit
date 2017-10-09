@@ -1,2 +1,5 @@
 
 #testGit 测试
+test add
+test -am
+
